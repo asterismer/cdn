@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "honglei";
+  src: url("honglei.woff2") format("woff2"),
+       url("honglei.woff") format("woff"),
+       url("honglei.ttf") format("truetype"),
+       url("honglei.eot") format("embedded-opentype"),
+       url("honglei.svg") format("svg"),
+       url("honglei.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
